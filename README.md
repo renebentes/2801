@@ -20,9 +20,9 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas | Descrição |
-| ----- | --------- |
-|       |           |
+| Aulas                            | Descrição                                                             |
+| -------------------------------- | --------------------------------------------------------------------- |
+| [aula-6-1](../../commit/cd77a90) | Módulo 6: Mão na massa: Criando uma calculadora - Iniciando o projeto |
 
 ## Autor
 
