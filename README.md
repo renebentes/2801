@@ -1,18 +1,35 @@
-# Fundamentos do C# - 2801
+# 2801 - Fundamentos do C\#
 
-> Repositório do curso 2801 - Fundamentos do C# disponível na plataforma [balta.io](https://balta.io/cursos/fundamentos-csharp).
+> Repositório do curso 2801 - Fundamentos do C# disponível na plataforma [balta.io](https://balta.io).
 
 Contém códigos de exemplos desenvolvidos durante as aulas.
 
-## Requirements
+Você pode encontrar os originais em:
 
-- [.NET Core 3.1 LTS+](https://dotnet.microsoft.com/download)
+- [balta.io](https://balta.io/cursos/fundamentos-csharp)
+- [github.com](https://github.com/balta-io/2801)
+
+## Tecnologias Utilizadas
+
+- [.NET 5](https://dotnet.microsoft.com/download)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-## Author
+## Divisão do Código
+
+Há links específicos para cada commit de finalização de uma aula.
+
+### Lista de Aulas
+
+| Aulas | Descrição |
+| ----- | --------- |
+|       |           |
+
+## Autor
 
 [Rene Bentes Pinto](http://github.com/renebentes)
 
-## License
+## Licença
 
-- This project licensed under terms of the [MIT](http://github.com/renebentes/2801/blob/master/LICENSE)
+Copyright (c) 2021 Rene Bentes Pinto
+
+Licensed under the [MIT](LICENSE) license.
