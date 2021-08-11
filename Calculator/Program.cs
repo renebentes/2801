@@ -8,7 +8,8 @@ static void Soma()
 
     Console.WriteLine("Segundo valor:");
     float v2 = float.Parse(Console.ReadLine());
-    Console.WriteLine(v2);
+
+    Console.WriteLine("");
 
     float resultado = v1 + v2;
 
@@ -25,7 +26,8 @@ static void Subtracao()
 
     Console.WriteLine("Segundo valor:");
     float v2 = float.Parse(Console.ReadLine());
-    Console.WriteLine(v2);
+
+    Console.WriteLine("");
 
     float resultado = v1 - v2;
 
@@ -42,7 +44,8 @@ static void Divisao()
 
     Console.WriteLine("Segundo valor:");
     float v2 = float.Parse(Console.ReadLine());
-    Console.WriteLine(v2);
+
+    Console.WriteLine("");
 
     float resultado = v1 / v2;
 
