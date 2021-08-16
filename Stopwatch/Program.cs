@@ -1,5 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Threading;
+
+Start();
 
 static void Start()
 {
@@ -8,6 +10,9 @@ static void Start()
 
     while (currentTime != time)
     {
+        Console.Clear();
         currentTime++;
+        Console.WriteLine(currentTime);
+        Thread.Sleep(1000);
     }
 }
