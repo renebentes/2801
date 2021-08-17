@@ -30,7 +30,8 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-6-7](../../commit/7892d1d) | Módulo 6: Mão na massa: Criando uma calculadora - Menu da Aplicação   |
 | [aula-6-8](../../commit/106d7f4) | Módulo 6: Mão na massa: Criando uma calculadora - Saindo da Aplicação |
 | [aula-7-1](../../commit/3299cba) | Módulo 7: Mão na massa: Cronômetro - Iniciando o projeto              |
-| [aula-7-1](../../commit/50cc0fa) | Módulo 7: Mão na massa: Cronômetro - Estrutura do cronômetro          |
+| [aula-7-2](../../commit/50cc0fa) | Módulo 7: Mão na massa: Cronômetro - Estrutura do cronômetro          |
+| [aula-7-3](../../commit/50cc0fa) | Módulo 7: Mão na massa: Cronômetro - Estrutura do cronômetro          |
 
 ## Autor
 
