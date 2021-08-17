@@ -33,6 +33,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-7-2](../../commit/50cc0fa) | Módulo 7: Mão na massa: Cronômetro - Estrutura do cronômetro          |
 | [aula-7-3](../../commit/0e259db) | Módulo 7: Mão na massa: Cronômetro - Thread e Sleep                   |
 | [aula-7-4](../../commit/09aa9c8) | Módulo 7: Mão na massa: Cronômetro - Criando o menu                   |
+| [aula-7-5](../../commit/ee38a39) | Módulo 7: Mão na massa: Cronômetro - Opções do menu                   |
 
 ## Autor
 
