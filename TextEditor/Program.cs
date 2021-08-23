@@ -29,4 +29,15 @@ static void Menu()
 
 static void Open() { }
 
-static void Edit() { }
+static void Edit()
+{
+    Console.Clear();
+    Console.WriteLine("Digite seu texto abaixo. (ESC para sair)");
+    Console.WriteLine("---------------------------");
+    string text = string.Empty;
+
+    while (Console.ReadKey().Key != ConsoleKey.Escape)
+    {
+
+    }
+}
