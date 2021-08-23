@@ -20,25 +20,26 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas                            | Descrição                                                             |
-| -------------------------------- | --------------------------------------------------------------------- |
-| [aula-6-1](../../commit/cd77a90) | Módulo 6: Mão na massa: Criando uma calculadora - Iniciando o projeto |
-| [aula-6-2](../../commit/63971bf) | Módulo 6: Mão na massa: Criando uma calculadora - Soma                |
-| [aula-6-4](../../commit/ef61209) | Módulo 6: Mão na massa: Criando uma calculadora - Subtração           |
-| [aula-6-5](../../commit/c04a45f) | Módulo 6: Mão na massa: Criando uma calculadora - Divisão             |
-| [aula-6-6](../../commit/d5bbfb3) | Módulo 6: Mão na massa: Criando uma calculadora - Multiplicação       |
-| [aula-6-7](../../commit/7892d1d) | Módulo 6: Mão na massa: Criando uma calculadora - Menu da Aplicação   |
-| [aula-6-8](../../commit/106d7f4) | Módulo 6: Mão na massa: Criando uma calculadora - Saindo da Aplicação |
-| [aula-7-1](../../commit/3299cba) | Módulo 7: Mão na massa: Cronômetro - Iniciando o projeto              |
-| [aula-7-2](../../commit/50cc0fa) | Módulo 7: Mão na massa: Cronômetro - Estrutura do cronômetro          |
-| [aula-7-3](../../commit/0e259db) | Módulo 7: Mão na massa: Cronômetro - Thread e Sleep                   |
-| [aula-7-4](../../commit/09aa9c8) | Módulo 7: Mão na massa: Cronômetro - Criando o menu                   |
-| [aula-7-5](../../commit/ee38a39) | Módulo 7: Mão na massa: Cronômetro - Opções do menu                   |
-| [aula-7-6](../../commit/aead19b) | Módulo 7: Mão na massa: Cronômetro - Substring                        |
-| [aula-7-7](../../commit/5999884) | Módulo 7: Mão na massa: Cronômetro - Obtendo a opção                  |
-| [aula-7-8](../../commit/fe9af70) | Módulo 7: Mão na massa: Cronômetro - Calculando o tempo               |
-| [aula-7-9](../../commit/fdb0e07) | Módulo 7: Mão na massa: Cronômetro - Finalizando a aplicação          |
-| [aula-8-1](../../commit/44fbfcb) | Módulo 8: Mão na massa: Editor de Textos - Iniciando o projeto        |
+| Aulas                            | Descrição                                                                 |
+| -------------------------------- | ------------------------------------------------------------------------- |
+| [aula-6-1](../../commit/cd77a90) | Módulo 6: Mão na massa: Criando uma calculadora - Iniciando o projeto     |
+| [aula-6-2](../../commit/63971bf) | Módulo 6: Mão na massa: Criando uma calculadora - Soma                    |
+| [aula-6-4](../../commit/ef61209) | Módulo 6: Mão na massa: Criando uma calculadora - Subtração               |
+| [aula-6-5](../../commit/c04a45f) | Módulo 6: Mão na massa: Criando uma calculadora - Divisão                 |
+| [aula-6-6](../../commit/d5bbfb3) | Módulo 6: Mão na massa: Criando uma calculadora - Multiplicação           |
+| [aula-6-7](../../commit/7892d1d) | Módulo 6: Mão na massa: Criando uma calculadora - Menu da Aplicação       |
+| [aula-6-8](../../commit/106d7f4) | Módulo 6: Mão na massa: Criando uma calculadora - Saindo da Aplicação     |
+| [aula-7-1](../../commit/3299cba) | Módulo 7: Mão na massa: Cronômetro - Iniciando o projeto                  |
+| [aula-7-2](../../commit/50cc0fa) | Módulo 7: Mão na massa: Cronômetro - Estrutura do cronômetro              |
+| [aula-7-3](../../commit/0e259db) | Módulo 7: Mão na massa: Cronômetro - Thread e Sleep                       |
+| [aula-7-4](../../commit/09aa9c8) | Módulo 7: Mão na massa: Cronômetro - Criando o menu                       |
+| [aula-7-5](../../commit/ee38a39) | Módulo 7: Mão na massa: Cronômetro - Opções do menu                       |
+| [aula-7-6](../../commit/aead19b) | Módulo 7: Mão na massa: Cronômetro - Substring                            |
+| [aula-7-7](../../commit/5999884) | Módulo 7: Mão na massa: Cronômetro - Obtendo a opção                      |
+| [aula-7-8](../../commit/fe9af70) | Módulo 7: Mão na massa: Cronômetro - Calculando o tempo                   |
+| [aula-7-9](../../commit/fdb0e07) | Módulo 7: Mão na massa: Cronômetro - Finalizando a aplicação              |
+| [aula-8-1](../../commit/44fbfcb) | Módulo 8: Mão na massa: Editor de Textos - Iniciando o projeto            |
+| [aula-8-1](../../commit/141bee7) | Módulo 8: Mão na massa: Editor de Textos - Iteração e caractere de escape |
 
 ## Autor
 
