@@ -36,6 +36,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-7-5](../../commit/ee38a39) | Módulo 7: Mão na massa: Cronômetro - Opções do menu                   |
 | [aula-7-6](../../commit/aead19b) | Módulo 7: Mão na massa: Cronômetro - Substring                        |
 | [aula-7-7](../../commit/5999884) | Módulo 7: Mão na massa: Cronômetro - Obtendo a opção                  |
+| [aula-7-8](../../commit/fe9af70) | Módulo 7: Mão na massa: Cronômetro - Calculando o tempo               |
 
 ## Autor
 
