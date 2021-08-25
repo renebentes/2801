@@ -42,6 +42,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-8-2](../../commit/eceff6e) | Módulo 8: Mão na massa: Editor de Textos - Iteração e caractere de escape |
 | [aula-8-3](../../commit/399ce53) | Módulo 8: Mão na massa: Editor de Textos - Do/While na prática            |
 | [aula-8-4](../../commit/a51b08d) | Módulo 8: Mão na massa: Editor de Textos - StreamWriter                   |
+| [aula-8-5](../../commit/095a355) | Módulo 8: Mão na massa: Editor de Textos - Salvando o arquivo             |
 
 ## Autor
 
