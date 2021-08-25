@@ -1,4 +1,8 @@
-﻿Menu();
+﻿using System;
+using System.Runtime.Serialization;
+using System.Threading;
+
+Menu();
 
 static void Menu()
 {
@@ -43,15 +47,20 @@ static void Edit()
     }
     while (Console.ReadKey().Key != ConsoleKey.Escape);
 
-    Console.Write(text);
+    Save(text);
+    Thread.Sleep(1000);
+
+    Menu();
 }
 
 static void Save(string text)
 {
     Console.Clear();
     Console.WriteLine("Qual o caminho para salvar o arquivo?");
-    var path = Console.ReadLine();
+    string path = Console.ReadLine();
 
     using var file = new StreamWriter(path);
     file.Write(text);
+
+    Console.WriteLine($"Arquivo salvo com sucesso em {path}!");
 }
