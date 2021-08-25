@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Runtime.Serialization;
 using System.Threading;
 
@@ -31,7 +32,22 @@ static void Menu()
     }
 }
 
-static void Open() { }
+static void Open()
+{
+    Console.Clear();
+    Console.WriteLine("Qual o camnho do arquivo?");
+    string path = Console.ReadLine();
+
+    using var file = new StreamReader(path);
+    string text = file.ReadToEnd();
+
+    Console.WriteLine(text);
+    Console.WriteLine("");
+    Console.WriteLine("Tecle [ENTER] para sair do leitor");
+    Console.ReadKey();
+
+    Menu();
+}
 
 static void Edit()
 {
