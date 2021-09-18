@@ -45,6 +45,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-8-5](../../commit/095a355)  | Módulo 8: Mão na massa: Editor de Textos - Salvando o arquivo             |
 | [aula-8-6](../../commit/fe13a8c)  | Módulo 8: Mão na massa: Editor de Textos - Abrindo arquivos               |
 | [aula-10-1](../../commit/d22d817) | Módulo 10: Mão na massa: Editor de HTML - Iniciando o projeto             |
+| [aula-10-2](../../commit/8c45fa9) | Módulo 10: Mão na massa: Editor de HTML - Desenhando a tela               |
 
 ## Autor
 
