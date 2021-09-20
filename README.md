@@ -47,6 +47,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-10-1](../../commit/d22d817) | Módulo 10: Mão na massa: Editor de HTML - Iniciando o projeto             |
 | [aula-10-2](../../commit/8c45fa9) | Módulo 10: Mão na massa: Editor de HTML - Desenhando a tela               |
 | [aula-10-3](../../commit/97929db) | Módulo 10: Mão na massa: Editor de HTML - Exibindo o menu                 |
+| [aula-10-4](../../commit/ce71f03) | Módulo 10: Mão na massa: Editor de HTML - Menu da aplicação               |
 
 ## Autor
 
