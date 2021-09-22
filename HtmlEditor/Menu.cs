@@ -1,5 +1,3 @@
-using System;
-
 namespace HtmlEditor
 {
     public static class Menu
@@ -21,7 +19,7 @@ namespace HtmlEditor
             DrawScreen();
             WriteOptions();
 
-            var option = short.Parse(Console.ReadLine());
+            short option = short.Parse(Console.ReadLine());
             HandleMenuOption(option);
         }
 
@@ -88,26 +86,26 @@ namespace HtmlEditor
             switch (option)
             {
                 case 1:
-                    {
-                        Editor.Show();
-                        break;
-                    }
+                {
+                    Editor.Show();
+                    break;
+                }
                 case 2:
-                    {
-                        Console.WriteLine("View");
-                        break;
-                    }
+                {
+                    Console.WriteLine("View");
+                    break;
+                }
                 case 0:
-                    {
-                        Console.Clear();
-                        Environment.Exit(0);
-                        break;
-                    }
+                {
+                    Console.Clear();
+                    Environment.Exit(0);
+                    break;
+                }
                 default:
-                    {
-                        Show();
-                        break;
-                    }
+                {
+                    Show();
+                    break;
+                }
             }
         }
     }
