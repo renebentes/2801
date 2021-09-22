@@ -19,7 +19,7 @@ namespace HtmlEditor
             DrawScreen();
             WriteOptions();
 
-            short option = short.Parse(Console.ReadLine());
+            _ = short.TryParse(Console.ReadLine(), out short option);
             HandleMenuOption(option);
         }
 
