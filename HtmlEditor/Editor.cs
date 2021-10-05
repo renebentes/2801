@@ -36,6 +36,8 @@ namespace HtmlEditor
             {
                 Save(content.ToString());
             }
+
+            Viewer.Show(content.ToString());
         }
 
         static void Save(string text)
