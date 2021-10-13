@@ -1,8 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace HtmlEditor
 {
@@ -26,6 +22,28 @@ namespace HtmlEditor
         public static void Replace(string text)
         {
             var strong = new Regex(@"<\s*strong[^>]*>(.*?)<\s*/\s*strong>");
+            var words = text.Split(' ');
+
+            foreach (var word in words)
+            {
+                if (strong.IsMatch(word))
+                {
+                    Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.Write(
+                        word.Substring(
+                            word.IndexOf('>') + 1,
+                            word.LastIndexOf('<') - 1 - word.IndexOf('>')
+                        )
+                    );
+                    Console.Write(" ");
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Black;
+                    Console.Write(word);
+                    Console.Write(" ");
+                }
+            }
         }
     }
 }
