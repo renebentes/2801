@@ -11,7 +11,7 @@ Você pode encontrar os originais em:
 
 ## Tecnologias Utilizadas
 
-- [.NET 5](https://dotnet.microsoft.com/download)
+- [.NET 6](https://dotnet.microsoft.com/download)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## Divisão do Código
