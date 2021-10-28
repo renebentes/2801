@@ -53,6 +53,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-10-7](../../commit/ad53b89) | Módulo 10: Mão na massa: Editor de HTML - Substituindo caracteres         |
 | [aula-11-1](../../commit/b44162d) | Datas - Iniciando com datas                                               |
 | [aula-11-2](../../commit/d389bae) | Datas - Obtendo valores da data                                           |
+| [aula-11-3](../../commit/a92ed17) | Datas - Formatando datas                                                  |
 
 ## Autor
 
