@@ -23,3 +23,12 @@ Console.WriteLine(string.Format("{0:u}", dateTime));
 Console.WriteLine(dateTime.AddDays(12));
 Console.WriteLine(dateTime.AddMonths(2));
 Console.WriteLine(dateTime.AddYears(-3));
+
+dateTime = DateTime.Now;
+
+// Structs, Value Types são comparados todos os dados
+// dateTime nunca será igual a outro DateTime.Now
+if (dateTime.Date == DateTime.Now.Date)
+{
+    Console.WriteLine("É igual");
+}
