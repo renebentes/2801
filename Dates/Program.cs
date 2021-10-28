@@ -18,3 +18,8 @@ Console.WriteLine(dateTime.DayOfYear);
 Console.WriteLine(string.Format("{0:r}", dateTime));
 Console.WriteLine(string.Format("{0:s}", dateTime));
 Console.WriteLine(string.Format("{0:u}", dateTime));
+
+// Não modifica o valor da data
+Console.WriteLine(dateTime.AddDays(12));
+Console.WriteLine(dateTime.AddMonths(2));
+Console.WriteLine(dateTime.AddYears(-3));
