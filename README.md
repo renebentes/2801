@@ -51,6 +51,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-10-5](../../commit/4fa19bd) | Módulo 10: Mão na massa: Editor de HTML - Editor                          |
 | [aula-10-6](../../commit/6da585f) | Módulo 10: Mão na massa: Editor de HTML - Visualizador                    |
 | [aula-10-7](../../commit/ad53b89) | Módulo 10: Mão na massa: Editor de HTML - Substituindo caracteres         |
+| [aula-11-1](../../commit/b44162d) | Datas - Iniciando com datas                                               |
 
 ## Autor
 
