@@ -55,6 +55,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-11-2](../../commit/d389bae) | Módulo 11: Datas - Obtendo valores da data                                |
 | [aula-11-3](../../commit/a92ed17) | Módulo 11: Datas - Formatando datas                                       |
 | [aula-11-4](../../commit/03858d3) | Módulo 11: Datas - Padrões de formatação                                  |
+| [aula-11-5](../../commit/2392a54) | Módulo 11: Datas - Adicionando valores                                    |
 
 ## Autor
 
