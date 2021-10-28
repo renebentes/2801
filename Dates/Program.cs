@@ -61,3 +61,19 @@ foreach (var timezone in timezones)
     Console.WriteLine(TimeZoneInfo.ConvertTimeFromUtc(dateTimeUtc, timezone));
     Console.WriteLine("----------");
 }
+
+var timeSpan = new TimeSpan();
+Console.WriteLine(timeSpan);
+
+var timeSpanNanoSegundos = new TimeSpan(1);
+Console.WriteLine(timeSpanNanoSegundos);
+
+var timeSpanHoraMinutoSegundo = new TimeSpan(5, 12, 8);
+Console.WriteLine(timeSpanHoraMinutoSegundo);
+
+var timeSpanDiaHoraMinutoSegundo = new TimeSpan(3, 5, 12, 8);
+Console.WriteLine(timeSpanDiaHoraMinutoSegundo);
+
+Console.WriteLine(timeSpanHoraMinutoSegundo - timeSpanDiaHoraMinutoSegundo);
+Console.WriteLine(timeSpanDiaHoraMinutoSegundo.Days);
+Console.WriteLine(timeSpanDiaHoraMinutoSegundo.Add(new TimeSpan(12, 0, 0)));
