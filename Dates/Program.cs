@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 Console.Clear();
 
@@ -32,3 +33,14 @@ if (dateTime.Date == DateTime.Now.Date)
 {
     Console.WriteLine("É igual");
 }
+
+var pt = new CultureInfo("pt-PT");
+var br = new CultureInfo("pt-BR");
+var en = new CultureInfo("en-US");
+var de = new CultureInfo("de-DE");
+var atual = CultureInfo.CurrentCulture;
+
+Console.WriteLine(dateTime.ToString("D", pt));
+Console.WriteLine(dateTime.ToString("D", br));
+Console.WriteLine(dateTime.ToString("D", en));
+Console.WriteLine(dateTime.ToString("D", de));
