@@ -8,3 +8,9 @@ Console.WriteLine(dateTime);
 
 dateTime = DateTime.Now;
 Console.WriteLine(dateTime);
+
+dateTime = new DateTime(2020,10,27, 21, 18, 30);
+Console.WriteLine(dateTime);
+Console.WriteLine(dateTime.Year);
+Console.WriteLine(dateTime.Month);
+Console.WriteLine(dateTime.DayOfYear);
