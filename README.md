@@ -58,6 +58,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-11-5](../../commit/2392a54) | Módulo 11: Datas - Adicionando valores                                    |
 | [aula-11-6](../../commit/47d7001) | Módulo 11: Datas - Comparando datas                                       |
 | [aula-11-7](../../commit/693117a) | Módulo 11: Datas - CultureInfo                                            |
+| [aula-11-8](../../commit/cc53a19) | Módulo 11: Datas - TimeZone                                               |
 
 ## Autor
 
