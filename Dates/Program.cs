@@ -44,3 +44,20 @@ Console.WriteLine(dateTime.ToString("D", pt));
 Console.WriteLine(dateTime.ToString("D", br));
 Console.WriteLine(dateTime.ToString("D", en));
 Console.WriteLine(dateTime.ToString("D", de));
+
+// Aplicações globalizadas, ideal é usar o tempo UTC
+var dateTimeUtc = DateTime.UtcNow;
+Console.WriteLine(dateTimeUtc.ToLocalTime());
+
+var timezoneAustralia = TimeZoneInfo.FindSystemTimeZoneById("Pacific/Auckland");
+var horaAustralia = TimeZoneInfo.ConvertTimeFromUtc(dateTimeUtc, timezoneAustralia);
+Console.WriteLine(horaAustralia);
+
+var timezones = TimeZoneInfo.GetSystemTimeZones();
+foreach (var timezone in timezones)
+{
+    Console.WriteLine(timezone.Id);
+    Console.WriteLine(timezone);
+    Console.WriteLine(TimeZoneInfo.ConvertTimeFromUtc(dateTimeUtc, timezone));
+    Console.WriteLine("----------");
+}
