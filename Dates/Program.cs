@@ -15,4 +15,6 @@ Console.WriteLine(dateTime.Year);
 Console.WriteLine(dateTime.Month);
 Console.WriteLine(dateTime.DayOfYear);
 
-Console.WriteLine(string.Format("{0:yyyy-MM-dd hh:mm:ss ff z}", dateTime));
+Console.WriteLine(string.Format("{0:r}", dateTime));
+Console.WriteLine(string.Format("{0:s}", dateTime));
+Console.WriteLine(string.Format("{0:u}", dateTime));
