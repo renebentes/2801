@@ -1,12 +1,9 @@
 ﻿Console.Clear();
 
-var meuArray = new Teste[2];
-meuArray[0] = new Teste();
+var meuArray = new int[5] { 1, 2, 3, 4, 5};
+meuArray[0] = 12;
 
-Console.WriteLine(meuArray[0].Id);
-Console.WriteLine(meuArray[1]);
-
-struct Teste
+for (int index = 0; index < meuArray.Length; index++)
 {
-    public int Id { get; set; }
+    Console.WriteLine(meuArray[index]);
 }
