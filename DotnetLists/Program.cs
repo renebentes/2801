@@ -1,9 +1,16 @@
 ﻿Console.Clear();
 
-var meuArray = new int[5] { 1, 2, 3, 4, 5};
-meuArray[0] = 12;
+var funcionarios = new Funcionario[5];
+funcionarios[0] = new Funcionario { Id = 1225, Nome="Rene" };
 
-for (int index = 0; index < meuArray.Length; index++)
+foreach (var funcionario in funcionarios)
 {
-    Console.WriteLine(meuArray[index]);
+    Console.WriteLine(funcionario.Id);
+    Console.WriteLine(funcionario.Nome);
+}
+
+struct Funcionario
+{
+    public int Id { get; set; }
+    public string Nome { get; set; }
 }
