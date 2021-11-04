@@ -60,6 +60,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-11-7](../../commit/693117a) | Módulo 11: Datas - CultureInfo                                            |
 | [aula-11-8](../../commit/cc53a19) | Módulo 11: Datas - TimeZone                                               |
 | [aula-11-9](../../commit/3b8f0fa) | Módulo 11: Datas - TimeSpan                                               |
+| [aula-12-9](../../commit/aa6655c) | Módulo 12: Moedas - Tipos para moedas                                     |
 
 ## Autor
 
