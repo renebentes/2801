@@ -64,6 +64,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-12-2](../../commit/5da412e) | Módulo 12: Moedas - Formatando moedas                                     |
 | [aula-12-3](../../commit/ab41683) | Módulo 12: Moedas - Math                                                  |
 | [aula-13-1](../../commit/d92292c) | Módulo 13: Arrays - Arrays                                                |
+| [aula-13-2](../../commit/112d113) | Módulo 13: Arrays - Percorrendo um array                                  |
 
 ## Autor
 
