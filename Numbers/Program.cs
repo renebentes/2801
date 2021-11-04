@@ -12,3 +12,7 @@ decimal valor = 10536.25m;
 // P - porcentagem
 Console.WriteLine(
     valor.ToString("N", CultureInfo.CreateSpecificCulture("pt-BR")));
+
+Console.WriteLine(Math.Round(valor));
+Console.WriteLine(Math.Ceiling(valor));
+Console.WriteLine(Math.Floor(valor));
