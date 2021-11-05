@@ -66,6 +66,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-13-1](../../commit/d92292c) | Módulo 13: Arrays - Arrays                                                |
 | [aula-13-2](../../commit/112d113) | Módulo 13: Arrays - Percorrendo um array                                  |
 | [aula-13-3](../../commit/5c0e53f) | Módulo 13: Arrays - ForEach                                               |
+| [aula-14-1](../../commit/a374d1d) | Módulo 14: Exceptions - Exceptions                                        |
 
 ## Autor
 
