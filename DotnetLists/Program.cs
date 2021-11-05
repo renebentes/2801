@@ -1,9 +1,18 @@
 ﻿Console.Clear();
 
-var arr = new int[3]{ 1, 2, 3};
+var arr = new int[3] { 1, 2, 3 };
 
-for (int i = 0; i < 10; i++)
+try
 {
-    // IndexOutOfRangeException
-    Console.WriteLine(arr[i]);
+    for (int i = 0; i < 10; i++)
+    {
+        // IndexOutOfRangeException
+        Console.WriteLine(arr[i]);
+    }
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.InnerException);
+    Console.WriteLine(ex.Message);
+    Console.WriteLine("Ops, algo deu errado!");
 }
