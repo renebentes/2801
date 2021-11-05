@@ -1,16 +1,9 @@
 ﻿Console.Clear();
 
-var funcionarios = new Funcionario[5];
-funcionarios[0] = new Funcionario { Id = 1225, Nome="Rene" };
+var arr = new int[3]{ 1, 2, 3};
 
-foreach (var funcionario in funcionarios)
+for (int i = 0; i < 10; i++)
 {
-    Console.WriteLine(funcionario.Id);
-    Console.WriteLine(funcionario.Nome);
-}
-
-struct Funcionario
-{
-    public int Id { get; set; }
-    public string Nome { get; set; }
+    // IndexOutOfRangeException
+    Console.WriteLine(arr[i]);
 }
