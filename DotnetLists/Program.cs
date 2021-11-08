@@ -37,6 +37,10 @@ catch (Exception ex)
     Console.WriteLine(ex.Message);
     Console.WriteLine("Ops, algo deu errado!");
 }
+finally
+{
+    Console.WriteLine("Chegou ao fim");
+}
 
 static void Cadastrar(string texto)
 {
