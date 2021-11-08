@@ -10,6 +10,12 @@ try
         Console.WriteLine(arr[i]);
     }
 }
+catch (IndexOutOfRangeException ex)
+{
+    Console.WriteLine(ex.InnerException);
+    Console.WriteLine(ex.Message);
+    Console.WriteLine("Não encontrei o índice na lista");
+}
 catch (Exception ex)
 {
     Console.WriteLine(ex.InnerException);
