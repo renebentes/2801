@@ -1,6 +1,4 @@
-﻿using System;
-
-Console.Clear();
+﻿Console.Clear();
 
 var arr = new int[3] { 1, 2, 3 };
 
@@ -26,6 +24,13 @@ catch (ArgumentNullException ex)
     Console.WriteLine(ex.Message);
     Console.WriteLine("Falha ao cadastrar");
 }
+catch (MinhaException ex)
+{
+    Console.WriteLine(ex.InnerException);
+    Console.WriteLine(ex.Message);
+    Console.WriteLine(ex.QuandoOcorreu);
+    Console.WriteLine("Falha ao cadastrar");
+}
 catch (Exception ex)
 {
     Console.WriteLine(ex.InnerException);
@@ -37,6 +42,17 @@ static void Cadastrar(string texto)
 {
     if (string.IsNullOrEmpty(texto))
     {
-        throw new ArgumentNullException("O texto não pode ser nulo ou vazio");
+        throw new MinhaException(DateTime.Now);
     }
+}
+
+public class MinhaException : Exception
+{
+    public MinhaException(DateTime quandoOcorreu)
+    {
+        QuandoOcorreu = quandoOcorreu;
+    }
+
+    public DateTime QuandoOcorreu { get; set; }
+
 }
