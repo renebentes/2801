@@ -69,6 +69,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-14-1](../../commit/a374d1d) | Módulo 14: Exceptions - Exceptions                                        |
 | [aula-14-2](../../commit/a938a4b) | Módulo 14: Exceptions - Try/Catch                                         |
 | [aula-14-3](../../commit/61fdf29) | Módulo 14: Exceptions - Tratando erros                                    |
+| [aula-14-4](../../commit/22e4390) | Módulo 14: Exceptions - Disparando exceções                               |
 
 ## Autor
 
