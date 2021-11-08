@@ -71,6 +71,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-14-3](../../commit/61fdf29) | Módulo 14: Exceptions - Tratando erros                                    |
 | [aula-14-4](../../commit/22e4390) | Módulo 14: Exceptions - Disparando exceções                               |
 | [aula-14-5](../../commit/9c4156b) | Módulo 14: Exceptions - Custom Exceptions                                 |
+| [aula-14-6](../../commit/8aebb1a) | Módulo 14: Exceptions - Finally                                           |
 
 ## Autor
 
